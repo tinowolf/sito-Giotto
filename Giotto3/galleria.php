@@ -59,6 +59,112 @@
 
         <div class="row">
 
+          <div class="col-sm-6 col-md-4">
+              <div class="thumbnail">
+                  <a class="lightbox" href="images/20.jpg">
+                      <img src="images/20.jpg">
+                  </a>
+              </div>
+          </div>
+          <div class="col-sm-6 col-md-4">
+              <div class="thumbnail">
+                  <a class="lightbox" href="images/21.jpg">
+                      <img src="images/21.jpg">
+                  </a>
+              </div>
+          </div>
+          <div class="col-sm-6 col-md-4">
+              <div class="thumbnail">
+                  <a class="lightbox" href="images/22.jpg">
+                      <img src="images/22.jpg">
+                  </a>
+              </div>
+          </div>
+          <div class="col-sm-6 col-md-4">
+              <div class="thumbnail">
+                  <a class="lightbox" href="images/23.jpg">
+                      <img src="images/23.jpg">
+                  </a>
+              </div>
+          </div>
+          <div class="col-sm-6 col-md-4">
+              <div class="thumbnail">
+                  <a class="lightbox" href="images/24.jpg">
+                      <img src="images/24.jpg">
+                  </a>
+              </div>
+          </div>
+          <div class="col-sm-6 col-md-4">
+              <div class="thumbnail">
+                  <a class="lightbox" href="images/25.jpg">
+                      <img src="images/25.jpg">
+                  </a>
+              </div>
+          </div>
+          <div class="col-sm-6 col-md-4">
+              <div class="thumbnail">
+                  <a class="lightbox" href="images/26.jpg">
+                      <img src="images/26.jpg">
+                  </a>
+              </div>
+          </div>
+          <div class="col-sm-6 col-md-4">
+              <div class="thumbnail">
+                  <a class="lightbox" href="images/27.jpg">
+                      <img src="images/27.jpg">
+                  </a>
+              </div>
+          </div>
+          <div class="col-sm-6 col-md-4">
+              <div class="thumbnail">
+                  <a class="lightbox" href="images/28.jpg">
+                      <img src="images/28.jpg">
+                  </a>
+              </div>
+          </div>
+          <div class="col-sm-6 col-md-4">
+              <div class="thumbnail">
+                  <a class="lightbox" href="images/29.jpg">
+                      <img src="images/29.jpg">
+                  </a>
+              </div>
+          </div><div class="col-sm-6 col-md-4">
+              <div class="thumbnail">
+                  <a class="lightbox" href="images/30.jpg">
+                      <img src="images/30.jpg">
+                  </a>
+              </div>
+          </div>
+          <div class="col-sm-6 col-md-4">
+              <div class="thumbnail">
+                  <a class="lightbox" href="images/31.jpg">
+                      <img src="images/31.jpg">
+                  </a>
+              </div>
+          </div>
+          <div class="col-sm-6 col-md-4">
+              <div class="thumbnail">
+                  <a class="lightbox" href="images/32.jpg">
+                      <img src="images/32.jpg">
+                  </a>
+              </div>
+          </div>
+          <div class="col-sm-6 col-md-4">
+              <div class="thumbnail">
+                  <a class="lightbox" href="images/33.jpg">
+                      <img src="images/33.jpg">
+                  </a>
+              </div>
+          </div>
+          <div class="col-sm-6 col-md-4">
+              <div class="thumbnail">
+                  <a class="lightbox" href="images/34.jpg">
+                      <img src="images/34.jpg">
+                  </a>
+              </div>
+          </div>
+
+
             <div class="col-sm-6 col-md-2">
                 <div class="thumbnail">
                     <a class="lightbox" href="images/1.jpg">
@@ -157,6 +263,7 @@
                     </a>
                 </div>
             </div>
+
         </div>
 
     </div>
